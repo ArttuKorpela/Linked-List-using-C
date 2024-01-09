@@ -1,7 +1,7 @@
 /*************************************************************************/
 /* CT60A2500 C-ohjelmoinnin perusteet
  * Tekijä: Arttu Korpela
- * Opiskelijanumero: 001155912
+ * Opiskelijanumero: ######
  * Päivämäärä: 07.03.2023
  * Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
  * lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
